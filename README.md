@@ -39,7 +39,7 @@
 - In this app i used various APIs that are available on several bomber sites, If you are owner or creator of any APIs then feel free to contact me i would like to remove it as soon as possible.
 ```
 ### Download :
-Download Latest Version [Download Now](https://github.com/Bhai4You/Anubis/raw/main/anubisfree.apk)
+Download Latest Version [Download Now](https://github.com/Bhai4You/Anubis/releases/download/0.2/anubis-0.2.apk)
 
 
 ### Support
