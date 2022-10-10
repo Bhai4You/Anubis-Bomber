@@ -23,6 +23,7 @@
 ### Features
 ```
 - Fastest like f*ck.
+- No Irritatating Ads!
 - Clean and Cool UI.
 - Easy to Use.
 - Only for Indian Number (+91).
