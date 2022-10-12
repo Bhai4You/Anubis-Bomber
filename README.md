@@ -1,9 +1,18 @@
 <br>
 
 <p align="center">
-    <img width="450" src="https://github.com/Bhai4You/bhai4you/blob/master/anubis2.gif" alt="Anubis Bomber"><br>
+    <a href="https://github.com/Bhai4You" ><img width="450" src="https://github.com/Bhai4You/bhai4you/blob/master/anubis2.gif" alt="Anubis Bomber"></a><br>
   <img src="https://github.com/Bhai4You/bhai4you/blob/master/anbis.png" height="90" alt="Anubis Bomber"><br>
-  💣 Powerful Bomber for Powerful Peeps!!  💣
+    💣 <b>Powerful Bomber for Powerful Peeps!!</b>  💣
+</p>
+
+<p align="center">
+	<a href="https://bhai4you.blogspot.com"><img height="25" src="https://github.com/surrealdb/surrealdb/blob/main/img/social/blog.svg" alt="Blog"></a>
+	&nbsp;
+	<a href="https://github.com/bhai4you"><img height="25" src="https://github.com/surrealdb/surrealdb/blob/main/img/social/github.svg" alt="Github	"></a>
+	&nbsp;
+    <a href="https://www.youtube.com/channel/UC9UYo9OBpmzrxKPeJdlj2wA"><img height="25" src="https://github.com/surrealdb/surrealdb/blob/main/img/social/youtube.svg" alt="Youtube"></a>
+
 </p>
 
   
