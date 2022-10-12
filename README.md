@@ -1,16 +1,11 @@
-<h1 align="center">
-  <br>
-  <a href="https://dribbble.com/shots/6288649-The-JoyPixels-Bomb-Emoji-Animation/attachments/6288649-The-JoyPixels-Bomb-Emoji-Animation?mode=media"><img src="https://gifimage.net/wp-content/uploads/2018/11/konfettibombe-gif-4.gif" alt="Mr. Robot" width="300" height="300"></a>
-  <br>
- Anubis Bomber
-  <br>
-</h1>
+<br>
 
-<h4 align="center"> 💣 Powerful Bomber for Powerful Peeps!!  💣</h4>
-
-<p align="left">
-  
+<p align="center">
+    <img width="450" src="https://github.com/Bhai4You/bhai4you/blob/master/anubis2.gif" alt="Anubis Bomber"><br>
+  <img src="https://github.com/Bhai4You/bhai4you/blob/master/anbis.png" height="90" alt="Anubis Bomber"><br>
+  💣 Powerful Bomber for Powerful Peeps!!  💣
 </p>
+
   
   
 ### Warning !
@@ -48,4 +43,4 @@ For Queries: [Telegram Group](https://t.me/anubisbomber) & Donation: [Github Spo
 Contributions, issues, and feature requests are welcome!      
 Give a ★ if you like this project!
 
-<p align="right"> Last Update: 10.10.2022 </p>
+<p align="right"> Last Update: 12.10.2022 </p>
