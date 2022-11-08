@@ -46,7 +46,7 @@ Click on below button for Downloading latest version of Anubis Bomber !
 <br><br>
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/Bhai4You/Anubis/releases/download/0.5/anubis-0.5.apk)
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/Bhai4You/Anubis/releases/download/0.5/Anubis_0.5.apk)
 <!-- END LATEST DOWNLOAD BUTTON -->
 
 <h2><img height="20" src="https://github.com/Bhai4You/bhai4you/blob/master/anubis/community.svg">&nbsp;&nbsp;Community</h2>
@@ -70,4 +70,4 @@ For security issues, view various reports..
 - [Kaspersky](https://opentip.kaspersky.com/FC7CE57960A89F72BC15749F6A5F382B169E1388D42CF8DFC1EF4D6DE6359302/results?tab=upload)
 
 
-<p align="right"> Last Update: 13.10.2022 </p>
+<p align="right"> Last Update: 08.11.2022 </p>
