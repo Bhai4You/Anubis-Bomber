@@ -69,5 +69,7 @@ For security issues, view various reports..
 - [Jotti Malware Scanner](https://virusscan.jotti.org/en-GB/filescanjob/ixd021d244)
 - [Kaspersky](https://opentip.kaspersky.com/FC7CE57960A89F72BC15749F6A5F382B169E1388D42CF8DFC1EF4D6DE6359302/results?tab=upload)
 
+<br>
 
-<p align="right"> Last Update: 08.11.2022 </p>
+<p align="right"> Last Update: 09.11.2022 </p>
+<p align="right"> Anubis Bomber</p>
